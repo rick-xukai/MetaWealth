@@ -22,6 +22,10 @@ import {
   CheckCircle,
   Info,
   AlertCircle,
+  Twitter,
+  Linkedin,
+  Github,
+  Facebook,
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import {
@@ -167,7 +171,7 @@ const testimonials = [
     role: 'Financial Advisor',
     company: 'Morgan Stanley',
     content:
-      'The predictive analytics capabilities are unmatched. My clients have seen consistent growth thanks to MetaWealth&apos;s intelligent recommendations.',
+      "The predictive analytics capabilities are unmatched. My clients have seen consistent growth thanks to MetaWealth's intelligent recommendations.",
     rating: 5,
     avatar: '/api/placeholder/64/64',
   },
@@ -176,7 +180,7 @@ const testimonials = [
     role: 'Wealth Manager',
     company: 'JP Morgan',
     content:
-      'What impressed me most is how MetaWealth adapts to each client&apos;s unique financial situation. It&apos;s like having a personal AI financial genius.',
+      "What impressed me most is how MetaWealth adapts to each client's unique financial situation. It's like having a personal AI financial genius.",
     rating: 5,
     avatar: '/api/placeholder/64/64',
   },
