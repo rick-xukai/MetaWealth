@@ -889,7 +889,7 @@ export default function HomePage() {
                 </h4>
                 <div className="flex space-x-3">
                   <button className="p-2 bg-primary/10 hover:bg-primary/20 rounded-lg transition-colors group">
-                    <a href="https://x.com/MetaWealthRwa" target="_blank">
+                    <a href="https://x.com/MetaWealth_RWA" target="_blank">
                       <XIcon className="h-4 w-4 text-muted-foreground group-hover:text-primary transition-colors" />
                     </a>
                   </button>
